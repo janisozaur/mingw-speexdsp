@@ -9,7 +9,7 @@ Summary:        A voice compression format (DSP)
 Group:          Development/Libraries
 License:        BSD
 URL:            http://www.speex.org/
-Source0:        http://downloads.xiph.org/releases/speex/%{pkgname}-%{version}.tar.gz
+Source0:        https://ftp.osuosl.org/pub/xiph/releases/speex/%{pkgname}-%{version}.tar.gz
 
 BuildArch:      noarch
 
